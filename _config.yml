@@ -57,6 +57,10 @@ navs:
   -
     href: /
     label: Home
+   
+  -
+    href: /wife.html
+    label: 老婆最美
 
   -
     href: /spring-boot.html
